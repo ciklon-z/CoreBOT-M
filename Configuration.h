@@ -184,9 +184,9 @@
 
 // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
 // E3D V5
-    #define  DEFAULT_Kp 12.26
-    #define  DEFAULT_Ki 0.67
-    #define  DEFAULT_Kd 59.05
+    #define  DEFAULT_Kp 12.33
+    #define  DEFAULT_Ki 0.58
+    #define  DEFAULT_Kd 65.83
 
 // Ultimaker
 //    #define  DEFAULT_Kp 22.2
